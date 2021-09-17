@@ -1,0 +1,74 @@
+section
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+div
+{
+    width: 20%;
+    height: 60%;
+    border-radius: 2%;
+}
+
+h2
+{
+    font-family: 'Big Shoulders Display', cursive;
+    padding-left: 10%;
+    color: white;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+p
+{
+    color: white;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 15px;
+}
+
+img
+{
+    padding: 10%;
+}
+
+button
+{
+    background-color:white;
+    border: none;
+    border-radius: 90px;
+    padding: 5% 15%;
+    margin: 10% 0% 10% 10%;
+    font-family: 'Lexend Deca', sans-serif;
+    mix-blend-mode: screen;
+
+}
+
+
+
+#boiteorange
+{
+    background-color: #E28525;
+}
+
+#boitebleue
+{
+    background-color: #0C6972;
+}
+
+#boiteverte
+{
+    background-color: #05403F;
+}
+
+.attribution
+{   
+display: flex;
+flex-direction: column;
+justify-content: center;
+width: 20%;
+margin-top: 5%;
+}
